@@ -1,0 +1,15 @@
+/Users/Valery/Desktop/HomeTask7/Hometask07/Test/obj/Debug/net6.0/Test.csproj.AssemblyReference.cache
+/Users/Valery/Desktop/HomeTask7/Hometask07/Test/obj/Debug/net6.0/Test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Valery/Desktop/HomeTask7/Hometask07/Test/obj/Debug/net6.0/Test.AssemblyInfoInputs.cache
+/Users/Valery/Desktop/HomeTask7/Hometask07/Test/obj/Debug/net6.0/Test.AssemblyInfo.cs
+/Users/Valery/Desktop/HomeTask7/Hometask07/Test/obj/Debug/net6.0/Test.csproj.CoreCompileInputs.cache
+/Users/Valery/Desktop/HomeTask7/Hometask07/Test/bin/Debug/net6.0/Test
+/Users/Valery/Desktop/HomeTask7/Hometask07/Test/bin/Debug/net6.0/Test.deps.json
+/Users/Valery/Desktop/HomeTask7/Hometask07/Test/bin/Debug/net6.0/Test.runtimeconfig.json
+/Users/Valery/Desktop/HomeTask7/Hometask07/Test/bin/Debug/net6.0/Test.dll
+/Users/Valery/Desktop/HomeTask7/Hometask07/Test/bin/Debug/net6.0/Test.pdb
+/Users/Valery/Desktop/HomeTask7/Hometask07/Test/obj/Debug/net6.0/Test.dll
+/Users/Valery/Desktop/HomeTask7/Hometask07/Test/obj/Debug/net6.0/refint/Test.dll
+/Users/Valery/Desktop/HomeTask7/Hometask07/Test/obj/Debug/net6.0/Test.pdb
+/Users/Valery/Desktop/HomeTask7/Hometask07/Test/obj/Debug/net6.0/Test.genruntimeconfig.cache
+/Users/Valery/Desktop/HomeTask7/Hometask07/Test/obj/Debug/net6.0/ref/Test.dll
